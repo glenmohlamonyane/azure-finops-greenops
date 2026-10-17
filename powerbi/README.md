@@ -1,1 +1,3 @@
-Power BI semantic model and future FinOps + GreenOps dashboard files.
+# Power BI
+
+The FinOps + GreenOps Command Center is in development. The semantic-model blueprint documents fact/dimension tables, relationships, DAX measures, report pages and validation checks.
